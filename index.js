@@ -14,3 +14,6 @@ console.log("Baris keenam");
 
 //Jumat
 console.log("Hai, baris baru :P");
+
+//Sabtu
+console.log("Hari libur ") //test
